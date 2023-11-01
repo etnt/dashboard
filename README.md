@@ -1,6 +1,6 @@
 # dashboard
 
-`dasboard`- is just a simple wrapper around the very cool
+`dashboard`- is just a simple wrapper around the very cool
 `observer_cli` application.
 
 ## Install and Run
